@@ -1,0 +1,6 @@
+[package]
+name = "learn_rust"
+version = "0.0.1"
+authors = ["n2ptune <n2ptune@outlook.com>"]
+
+[dependencies]
